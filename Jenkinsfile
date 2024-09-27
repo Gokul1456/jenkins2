@@ -34,7 +34,7 @@ pipeline
 
     	always
     	{
-    	  mail bcc: '', body: '', cc: '', from: '', replyTo: '', subject: 'create project', to: 'gokulavasan145@gmail.com'
+    	  mail bcc: '', body: 'folder35.92.34.7035.92.34.70', cc: '', from: '', replyTo: '', subject: 'create project', to: 'gokulavasan145@gmail.com'
     	}
 
     }
